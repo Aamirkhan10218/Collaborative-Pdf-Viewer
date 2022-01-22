@@ -1,0 +1,11 @@
+﻿@page "/"
+@namespace CollaborativePdfViewer.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+<head>
+     <link href="_content/Syncfusion.Blazor.Themes/bootstrap4.css" rel="stylesheet" />
+</head>
+
+<component type="typeof(App)" render-mode="ServerPrerendered" />

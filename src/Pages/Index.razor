@@ -1,0 +1,126 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
+@using System.Diagnostics
+@using Syncfusion.Blazor.PdfViewer
+@inject NavigationManager _navigationManager
+
+<h3>Collaborative Pdf Viewer</h3>
+<h5>@hubConnection?.State.ToString()</h5>
+<h5>@DocumentPath</h5>
+<button type="submit" class="btn btn-success" @onclick="@OpenPdf">Open Pdf</button>
+<button type="submit" class="btn btn-primary" @onclick="@NextPage">Next Page</button>
+<button type="submit" class="btn btn-error" @onclick="@PreviousPage">Previous Page</button>
+
+
+<h4>@currentPage of @pageNo</h4>
+
+
+<SfPdfViewerServer EnableToolbar="false" DocumentPath="@DocumentPath" @ref="@pdfViewer">
+ <PdfViewerEvents PageChanged="@PageChangedEvent"></PdfViewerEvents>
+</SfPdfViewerServer>
+
+@code {
+    private HubConnection? hubConnection;
+    SfPdfViewerServer pdfViewer;
+    private string? DocumentPath { get; set; } //= "wwwroot/pdffiles/Enterprise-Application-Patterns-using-XamarinForms.pdf";
+    string bookOne = "wwwroot/pdffiles/Enterprise-Application-Patterns-using-XamarinForms.pdf";
+    string bookTwo = "wwwroot/pdffiles/AamirKhan_Resume_.pdf";
+    int pageNo = 0;
+    int currentPage = 0;
+    protected override async Task OnInitializedAsync()
+    {
+        //Create Connection with SignalR
+        hubConnection = new HubConnectionBuilder()
+             .WithUrl(_navigationManager.ToAbsoluteUri("/collaborationHub"))
+             .Build();
+
+        hubConnection.On<string>("OnOpenPdf", (doc) =>
+        {
+            Debug.WriteLine("message" + doc);
+            DocumentPath =doc;
+            StateHasChanged();
+        });
+
+        hubConnection.On<string>("OnGoToNextPage", (user) =>
+       {
+           NextPage();
+           StateHasChanged();
+       });
+
+        hubConnection.On<string>("OnGoToPreviousPage", (user) =>
+       {
+           PreviousPage();
+           StateHasChanged();
+       });
+
+
+        await hubConnection.StartAsync();
+    }
+    public bool IsConnected =>
+        hubConnection?.State == HubConnectionState.Connected;
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+
+    private async void OpenPdf()
+    {
+        if (string.IsNullOrWhiteSpace(DocumentPath))
+        {
+            DocumentPath = bookOne;
+            pageNo = pdfViewer.PageCount;
+            if (hubConnection is not null)
+            {
+                await hubConnection.SendAsync("OpenPdf", _navigationManager.BaseUri+ DocumentPath);
+            }
+        }
+        else if (DocumentPath == bookOne)
+        {
+            DocumentPath = bookTwo;
+            pageNo = pdfViewer.PageCount;
+            if (hubConnection is not null)
+            {
+                await hubConnection.SendAsync("OpenPdf", DocumentPath);
+            }
+        }
+        else if (DocumentPath == bookTwo)
+        {
+            DocumentPath = bookOne;
+            currentPage = pdfViewer.CurrentPageNumber;
+            pageNo = pdfViewer.PageCount;
+            if (hubConnection is not null)
+            {
+                await hubConnection.SendAsync("OpenPdf", DocumentPath);
+            }
+        }
+    }
+
+    private async void PageChangedEvent(PageChangeEventArgs  args)
+    {
+         if (hubConnection is not null)
+            {
+                await hubConnection.SendAsync("GoToNextPage", "nextPage");
+            }
+    }
+
+    private async void NextPage()
+    {
+      await  pdfViewer.GoToNextPageAsync();
+        currentPage = pdfViewer.CurrentPageNumber;
+       
+    }
+    private async void PreviousPage()
+    {
+       await pdfViewer.GoToPreviousPageAsync();
+        currentPage = pdfViewer.CurrentPageNumber;
+        if (hubConnection is not null)
+            {
+                await hubConnection.SendAsync("GoToPreviousPage", DocumentPath);
+            }
+    }
+
+}
