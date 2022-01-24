@@ -7,16 +7,40 @@
 <h3>Collaborative Pdf Viewer</h3>
 <h5>@hubConnection?.State.ToString()</h5>
 <h5>@DocumentPath</h5>
-<button type="submit" class="btn btn-success" @onclick="@OpenPdf">Open Pdf</button>
-<button type="submit" class="btn btn-primary" @onclick="@NextPage">Next Page</button>
-<button type="submit" class="btn btn-error" @onclick="@PreviousPage">Previous Page</button>
+<button type="submit" class="btn btn-outline-success btn-icon" @onclick="@OpenPdf">
+    <i class="fas fa-folder-open pr-2"></i>
+    Open Pdf
+</button>
+<button type="submit" class="btn btn-outline-primary btn-icon" @onclick="@NextPage"><i class="fas fa-arrow-right"></i>Next Page</button>
+<button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@PreviousPage"><i class="fas fa-arrow-left"></i>Previous Page</button>
+<div style="display:inline-block">
+    <button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@OnZoomInClick">
+        <i class="fas fa-search-plus"></i>
+        Zoom In
+    </button>
+</div>
+<div style="display:inline-block">
+    <button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@OnZoomOutClick">
+        <i class="fas fa-search-minus"></i>
+        Zoom Out
+    </button>
+</div>
+<div style="display:inline-block">
+    <h4>@currentPage of @pageNo</h4>
+</div>
+<br/>
+<br/>
+<br/>
 
 
-<h4>@currentPage of @pageNo</h4>
 
-
-<SfPdfViewerServer EnableToolbar="false" DocumentPath="@DocumentPath" @ref="@pdfViewer">
-    @* <PdfViewerEvents></PdfViewerEvents> *@
+<SfPdfViewerServer EnableToolbar="true" 
+                   EnableBookmarkPanel="false"
+                   Width="1060px"
+                   Height="900px"
+                   DocumentPath="@DocumentPath"
+                   @ref="@pdfViewer">
+    <PdfViewerEvents OnTextSelectionEnd="selectionEnd"></PdfViewerEvents> 
 </SfPdfViewerServer>
 
 @code {
@@ -53,11 +77,28 @@
             pdfViewer.GoToPreviousPage();
             StateHasChanged();
         });
+        hubConnection.On<string>("OnZoomIn", (user) =>
+        {
+            pdfViewer.ZoomIn();
+            StateHasChanged();
+        });
+        hubConnection.On<string>("OnZoomOut", (user) =>
+        {
+            pdfViewer.ZoomOut();
+            StateHasChanged();
+        });
 
 
         await hubConnection.StartAsync();
     }
 
+    
+    public void selectionEnd(TextSelectionEndEventArgs args)
+    {
+        var data = args;
+        var bounds = args.TextBounds;
+        var text = args.TextContent;
+    } 
     public bool IsConnected =>
             hubConnection?.State == HubConnectionState.Connected;
 
@@ -69,6 +110,24 @@
         }
     }
 
+    private void OnZoomOutClick()
+    {
+        pdfViewer.ZoomOut();
+        if (hubConnection is not null)
+        {
+            hubConnection.SendAsync("ZoomOut", "zoomIn");
+        }
+    }
+
+    private void OnZoomInClick()
+    {
+        pdfViewer.ZoomIn();
+        if (hubConnection is not null)
+        {
+            hubConnection.SendAsync("ZoomIn", "zoomOut");
+        }
+    }
+    
     private async void OpenPdf()
     {
         if (string.IsNullOrWhiteSpace(DocumentPath))
