@@ -16,5 +16,13 @@ namespace CollaborativePdfViewer.Hubs
         {
             await Clients.Others.SendAsync("OnGoToPreviousPage",user);
         }
+        public async Task ZoomIn(string user)
+        {
+            await Clients.Others.SendAsync("OnZoomIn",user);
+        }
+        public async Task ZoomOut(string user)
+        {
+            await Clients.Others.SendAsync("OnZoomOut",user);
+        }
     }
 }
