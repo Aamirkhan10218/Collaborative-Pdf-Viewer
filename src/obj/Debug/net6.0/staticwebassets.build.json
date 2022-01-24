@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CFGRjW1WNh3FQ/NPldtyeNs+MsF7YZbuXkCTXuJfzgg=",
+  "Hash": "a7kO0bYFAe8BkhTBMRLSPqmMMrds3qKskxZN4IQS76o=",
   "Source": "CollaborativePdfViewer",
   "BasePath": "_content/CollaborativePdfViewer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CollaborativePdfViewer\\wwwroot",
       "Source": "CollaborativePdfViewer",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\compression-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\compression-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/compression-09c57d.min.js",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\compression-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\compression-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\excelexport-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\excelexport-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/excelexport-09c57d.min.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\excelexport-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\excelexport-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\fileutils-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\fileutils-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/fileutils-09c57d.min.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\fileutils-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\fileutils-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\pdfexport-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\pdfexport-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/pdfexport-09c57d.min.js",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\pdfexport-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\pdfexport-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popup-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popup-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/popup-09c57d.min.js",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popup-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popup-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popupsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popupsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/popupsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popupsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\popupsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/sf-import-09c57d.min.js",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-ie-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-ie-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/sf-import-ie-09c57d.min.js",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-ie-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-import-ie-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-svg-export-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-svg-export-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/sf-svg-export-09c57d.min.js",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-svg-export-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\sf-svg-export-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\svgbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\svgbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/svgbase-09c57d.min.js",
       "AssetKind": "All",
@@ -184,30 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\svgbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\svgbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Core",
-      "RelativePath": "scripts/syncfusion-blazor.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-09c57d.min.js",
-      "SourceId": "Syncfusion.Blazor.Core",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/syncfusion-blazor-09c57d.min.js",
       "AssetKind": "All",
@@ -218,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-extended-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-extended-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/syncfusion-blazor-extended-09c57d.min.js",
       "AssetKind": "All",
@@ -235,13 +218,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-extended-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-extended-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\scripts\\data-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js",
+      "SourceId": "Syncfusion.Blazor.Core",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Core",
+      "RelativePath": "scripts/syncfusion-blazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\scripts\\data-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Data",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Data",
       "RelativePath": "scripts/data-09c57d.min.js",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\scripts\\data-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.data\\19.4.0.43\\staticwebassets\\scripts\\data-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-dropdownlist-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-dropdownlist-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-dropdownlist-09c57d.min.js",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-dropdownlist-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-dropdownlist-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-listbox-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-listbox-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-listbox-09c57d.min.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-listbox-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-listbox-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-multiselect-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-multiselect-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-multiselect-09c57d.min.js",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-multiselect-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sf-multiselect-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sortable-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sortable-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sortable-09c57d.min.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sortable-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.dropdowns\\19.4.0.43\\staticwebassets\\scripts\\sortable-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\scripts\\sf-inplaceeditor-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\scripts\\sf-inplaceeditor-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.InPlaceEditor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.InPlaceEditor",
       "RelativePath": "scripts/sf-inplaceeditor-09c57d.min.js",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\scripts\\sf-inplaceeditor-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inplaceeditor\\19.4.0.43\\staticwebassets\\scripts\\sf-inplaceeditor-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-colorpicker-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-colorpicker-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-colorpicker-09c57d.min.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-colorpicker-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-colorpicker-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-maskedtextbox-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-maskedtextbox-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-maskedtextbox-09c57d.min.js",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-maskedtextbox-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-maskedtextbox-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-numerictextbox-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-numerictextbox-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-numerictextbox-09c57d.min.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-numerictextbox-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-numerictextbox-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-signature-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-signature-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-signature-09c57d.min.js",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-signature-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-signature-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-slider-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-slider-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-slider-09c57d.min.js",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-slider-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-slider-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-textbox-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-textbox-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-textbox-09c57d.min.js",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-textbox-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-textbox-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-uploader-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-uploader-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-uploader-09c57d.min.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-uploader-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.inputs\\19.4.0.43\\staticwebassets\\scripts\\sf-uploader-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\scripts\\sf-listview-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\scripts\\sf-listview-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Lists",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Lists",
       "RelativePath": "scripts/sf-listview-09c57d.min.js",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\scripts\\sf-listview-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.lists\\19.4.0.43\\staticwebassets\\scripts\\sf-listview-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\navigationsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\navigationsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/navigationsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\navigationsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\navigationsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-accordion-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-accordion-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-accordion-09c57d.min.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-accordion-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-accordion-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-breadcrumb-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-breadcrumb-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-breadcrumb-09c57d.min.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-breadcrumb-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-breadcrumb-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-contextmenu-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-contextmenu-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-contextmenu-09c57d.min.js",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-contextmenu-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-contextmenu-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-menu-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-menu-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-menu-09c57d.min.js",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-menu-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-menu-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-sidebar-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-sidebar-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-sidebar-09c57d.min.js",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-sidebar-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-sidebar-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-tab-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-tab-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-tab-09c57d.min.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-tab-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-tab-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-toolbar-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-toolbar-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-toolbar-09c57d.min.js",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-toolbar-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-toolbar-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-treeview-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-treeview-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-treeview-09c57d.min.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-treeview-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.navigations\\19.4.0.43\\staticwebassets\\scripts\\sf-treeview-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\scripts\\sf-toast-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\scripts\\sf-toast-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Notifications",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Notifications",
       "RelativePath": "scripts/sf-toast-09c57d.min.js",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\scripts\\sf-toast-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.notifications\\19.4.0.43\\staticwebassets\\scripts\\sf-toast-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\accordion-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\accordion-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/accordion-09c57d.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\accordion-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\accordion-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\button-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\button-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/button-09c57d.min.js",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\button-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\button-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\buttonsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\buttonsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/buttonsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\buttonsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\buttonsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\contextmenu-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\contextmenu-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/contextmenu-09c57d.min.js",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\contextmenu-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\contextmenu-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\dialog-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\dialog-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/dialog-09c57d.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\dialog-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\dialog-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\drawings-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\drawings-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/drawings-09c57d.min.js",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\drawings-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\drawings-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inplaceeditor-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inplaceeditor-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/inplaceeditor-09c57d.min.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inplaceeditor-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inplaceeditor-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inputsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inputsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/inputsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inputsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\inputsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/listsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listview-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listview-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/listview-09c57d.min.js",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listview-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\listview-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\pdfviewer-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\pdfviewer-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/pdfviewer-09c57d.min.js",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\pdfviewer-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\pdfviewer-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-pdfviewer.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-pdfviewer.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/syncfusion-blazor-pdfviewer.min.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-pdfviewer.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\syncfusion-blazor-pdfviewer.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\textbox-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\textbox-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/textbox-09c57d.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\textbox-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\textbox-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\toast-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\toast-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/toast-09c57d.min.js",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\toast-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\toast-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\tooltip-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\tooltip-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.PdfViewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.PdfViewer",
       "RelativePath": "scripts/tooltip-09c57d.min.js",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\tooltip-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.pdfviewer\\19.4.0.43\\staticwebassets\\scripts\\tooltip-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-dialog-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-dialog-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-dialog-09c57d.min.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-dialog-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-dialog-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-tooltip-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-tooltip-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-tooltip-09c57d.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-tooltip-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.popups\\19.4.0.43\\staticwebassets\\scripts\\sf-tooltip-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\sf-spinner-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\sf-spinner-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/sf-spinner-09c57d.min.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\sf-spinner-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\sf-spinner-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\spinner-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\spinner-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/spinner-09c57d.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\spinner-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.spinner\\19.4.0.43\\staticwebassets\\scripts\\spinner-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\sf-drop-down-button-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\sf-drop-down-button-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/sf-drop-down-button-09c57d.min.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\sf-drop-down-button-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\sf-drop-down-button-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\splitbuttonsbase-09c57d.min.js",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\splitbuttonsbase-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/splitbuttonsbase-09c57d.min.js",
       "AssetKind": "All",
@@ -1000,81 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\splitbuttonsbase-09c57d.min.js"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\19.4.0.43\\staticwebassets\\scripts\\splitbuttonsbase-09c57d.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap4.css",
-      "SourceId": "Syncfusion.Blazor.Themes",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "bootstrap4.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap4.css"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5.css",
-      "SourceId": "Syncfusion.Blazor.Themes",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "bootstrap5.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5.css"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5-dark.css",
-      "SourceId": "Syncfusion.Blazor.Themes",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "bootstrap5-dark.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5-dark.css"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap-dark.css",
-      "SourceId": "Syncfusion.Blazor.Themes",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap-dark.css",
       "AssetKind": "All",
@@ -1085,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap-dark.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "fabric.css",
+      "RelativePath": "bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,13 +1034,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric-dark.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap4.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Themes",
+      "RelativePath": "bootstrap4.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap4.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5-dark.css",
+      "SourceId": "Syncfusion.Blazor.Themes",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Themes",
+      "RelativePath": "bootstrap5-dark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5-dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5.css",
+      "SourceId": "Syncfusion.Blazor.Themes",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Themes",
+      "RelativePath": "bootstrap5.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\bootstrap5.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric-dark.css",
+      "SourceId": "Syncfusion.Blazor.Themes",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "fabric-dark.css",
       "AssetKind": "All",
@@ -1119,13 +1102,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric-dark.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\highcontrast.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Themes",
+      "RelativePath": "fabric.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\fabric.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\highcontrast.css",
+      "SourceId": "Syncfusion.Blazor.Themes",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "highcontrast.css",
       "AssetKind": "All",
@@ -1136,30 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\highcontrast.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\highcontrast.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
-      "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "material.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material.css"
-    },
-    {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material-dark.css",
-      "SourceId": "Syncfusion.Blazor.Themes",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "material-dark.css",
       "AssetKind": "All",
@@ -1170,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material-dark.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
-      "RelativePath": "tailwind.css",
+      "RelativePath": "material.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\material.css"
     },
     {
-      "Identity": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind-dark.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "tailwind-dark.css",
       "AssetKind": "All",
@@ -1204,13 +1187,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aamir Khan\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind-dark.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind-dark.css"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CollaborativePdfViewer.styles.css",
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind.css",
+      "SourceId": "Syncfusion.Blazor.Themes",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Themes",
+      "RelativePath": "tailwind.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.themes\\19.4.0.43\\staticwebassets\\tailwind.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CollaborativePdfViewer.styles.css",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "CollaborativePdfViewer.styles.css",
       "AssetKind": "All",
@@ -1221,13 +1221,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CollaborativePdfViewer.styles.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CollaborativePdfViewer.styles.css"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CollaborativePdfViewer.bundle.scp.css",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CollaborativePdfViewer.bundle.scp.css",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "CollaborativePdfViewer.bundle.scp.css",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CollaborativePdfViewer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CollaborativePdfViewer.bundle.scp.css"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,112 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
-      "BasePath": "_content/CollaborativePdfViewer",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "CollaborativePdfViewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1394,10 +1292,112 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "BasePath": "_content/CollaborativePdfViewer",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "CollaborativePdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\css\\site.css",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\favicon.ico",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\pdffiles\\Enterprise-Application-Patterns-using-XamarinForms.pdf",
+      "Identity": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\pdffiles\\Enterprise-Application-Patterns-using-XamarinForms.pdf",
       "SourceId": "CollaborativePdfViewer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\NanoTech\\Open Source\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aamir\\RiderProjects\\Collaborative-Pdf-Viewer\\src\\wwwroot\\",
       "BasePath": "_content/CollaborativePdfViewer",
       "RelativePath": "pdffiles/Enterprise-Application-Patterns-using-XamarinForms.pdf",
       "AssetKind": "All",
