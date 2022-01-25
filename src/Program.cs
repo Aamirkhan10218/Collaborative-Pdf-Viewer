@@ -1,5 +1,6 @@
 using CollaborativePdfViewer.Hubs;
 using Microsoft.AspNetCore.ResponseCompression;
+using MudBlazor.Services;
 using Syncfusion.Blazor;
 
 
@@ -14,6 +15,7 @@ builder.Services.AddResponseCompression(opts =>
         new[] { "application/octet-stream" });
 });
 builder.Services.AddSyncfusionBlazor();
+builder.Services.AddMudServices();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a7kO0bYFAe8BkhTBMRLSPqmMMrds3qKskxZN4IQS76o=",
+  "Hash": "yXJ4p9+KjQvDD86nfgyk8TTCIllxt8EMmhJhNprUStc=",
   "Source": "CollaborativePdfViewer",
   "BasePath": "_content/CollaborativePdfViewer",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aamir\\.nuget\\packages\\mudblazor\\6.0.5\\staticwebassets\\MudBlazor.min.js"
+    },
     {
       "Identity": "C:\\Users\\aamir\\.nuget\\packages\\syncfusion.blazor.core\\19.4.0.43\\staticwebassets\\scripts\\compression-09c57d.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
