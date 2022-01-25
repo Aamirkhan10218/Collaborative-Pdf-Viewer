@@ -4,27 +4,70 @@
 @using Syncfusion.Blazor.PdfViewer
 @inject NavigationManager _navigationManager
 
-<h3>Collaborative Pdf Viewer</h3>
+<MudDrawer @bind-Open="@open" Elevation="1" Anchor="Anchor.Bottom" Variant="@DrawerVariant.Temporary">
+    <MudDrawerHeader>
+        <MudText Typo="Typo.h6">Creat Room</MudText>
+    </MudDrawerHeader>
+    <MudDrawerContainer>
+         <MudTextField T="string" Placeholder="Enter Room Name"></MudTextField>
+            <MudButton Color="Color.Success"> Create Room</MudButton>
+    </MudDrawerContainer>
+   
+</MudDrawer>
+<MudCard>
+    <MudCardContent>
+
+        @if (hubConnection?.State == HubConnectionState.Connected)
+        {
+            <MudBadge Origin="Origin.TopRight" Dot="false" Color="Color.Success">
+                <MudText Typo="Typo.h5">Collaborative Pdf Viewer</MudText>
+            </MudBadge>
+        }
+        else
+        {
+            <MudBadge Origin="Origin.TopRight" Dot="false" Color="Color.Error">
+                <MudText Typo="Typo.h5">Collaborative Pdf Viewer</MudText>
+            </MudBadge>
+        }
+    </MudCardContent>
+</MudCard>
 <h5>@hubConnection?.State.ToString()</h5>
-<h5>@DocumentPath</h5>
-<button type="submit" class="btn btn-outline-success btn-icon" @onclick="@OpenPdf">
-    <i class="fas fa-folder-open pr-2"></i>
-    Open Pdf
-</button>
-<button type="submit" class="btn btn-outline-primary btn-icon" @onclick="@NextPage"><i class="fas fa-arrow-right"></i>Next Page</button>
-<button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@PreviousPage"><i class="fas fa-arrow-left"></i>Previous Page</button>
-<div style="display:inline-block">
-    <button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@OnZoomInClick">
-        <i class="fas fa-search-plus"></i>
+<MudItem xs="12" sm="12">
+    <MudButton Variant="Variant.Filled"
+               OnClick="OpenPdf"
+               Color="Color.Success">
+        Open Pdf
+    </MudButton>
+    <MudButton Variant="Variant.Filled"
+               OnClick="NextPage"
+               Color="Color.Secondary">
+        Next
+    </MudButton>
+    <MudButton Variant="Variant.Filled"
+               OnClick="PreviousPage"
+               Color="Color.Warning">
+        Previous
+    </MudButton>
+    <MudButton Variant="Variant.Filled"
+               OnClick="OnZoomInClick"
+               Color="Color.Surface">
         Zoom In
-    </button>
-</div>
-<div style="display:inline-block">
-    <button type="submit" class="btn btn-outline-danger btn-icon" @onclick="@OnZoomOutClick">
-        <i class="fas fa-search-minus"></i>
+    </MudButton>
+    <MudButton Variant="Variant.Filled"
+               OnClick="OnZoomOutClick"
+               Color="Color.Dark">
         Zoom Out
-    </button>
-</div>
+    </MudButton>
+    
+    <MudButton Variant="Variant.Filled"
+                   OnClick="@(() => OpenDrawer())"
+                   Color="Color.Info">
+            Create Room
+        </MudButton>
+    
+</MudItem>
+
+
 <div style="display:inline-block">
     <h4>@currentPage of @pageNo</h4>
 </div>
@@ -33,14 +76,13 @@
 <br/>
 
 
-
-<SfPdfViewerServer EnableToolbar="true" 
+<SfPdfViewerServer EnableToolbar="true"
                    EnableBookmarkPanel="false"
                    Width="1060px"
                    Height="900px"
                    DocumentPath="@DocumentPath"
                    @ref="@pdfViewer">
-    <PdfViewerEvents OnTextSelectionEnd="selectionEnd"></PdfViewerEvents> 
+    <PdfViewerEvents OnTextSelectionEnd="selectionEnd"></PdfViewerEvents>
 </SfPdfViewerServer>
 
 @code {
@@ -91,14 +133,20 @@
 
         await hubConnection.StartAsync();
     }
-
+    bool open;
     
+    void OpenDrawer()
+    {
+        open = true;
+    }
+
     public void selectionEnd(TextSelectionEndEventArgs args)
     {
         var data = args;
         var bounds = args.TextBounds;
         var text = args.TextContent;
-    } 
+    }
+
     public bool IsConnected =>
             hubConnection?.State == HubConnectionState.Connected;
 
@@ -127,7 +175,7 @@
             hubConnection.SendAsync("ZoomIn", "zoomOut");
         }
     }
-    
+
     private async void OpenPdf()
     {
         if (string.IsNullOrWhiteSpace(DocumentPath))
